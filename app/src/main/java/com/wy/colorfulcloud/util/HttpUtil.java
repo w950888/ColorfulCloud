@@ -9,7 +9,7 @@ import okhttp3.Request;
  * @author Luke
  * @version 1.0.0
  * @time 2020/4/26 下午 4:15
- * @description
+ * @description 网络请求工具
  */
 public class HttpUtil {
     private static final String TAG = HttpUtil.class.getSimpleName();
